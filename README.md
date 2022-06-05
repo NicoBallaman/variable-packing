@@ -24,4 +24,5 @@ With this technique, you can store 256 booleans in one storage slot. If you try 
 
 ### source:
 - [Layout of State Variables in Storage](https://docs.soliditylang.org/en/v0.8.13/internals/layout_in_storage.html)
-- [solidity patterns: tight variable packing](https://fravoll.github.io/solidity-patterns/tight_variable_packing.html)
+- [Solidity patterns: tight variable packing](https://fravoll.github.io/solidity-patterns/tight_variable_packing.html)
+- [Gas optimization in solidity](https://medium.com/coinmonks/gas-optimization-in-solidity-part-i-variables-9d5775e43dde)
